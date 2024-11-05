@@ -1,0 +1,5 @@
+worker: python newanim.py
+discord.py
+Flask
+python-dotenv
+requests
